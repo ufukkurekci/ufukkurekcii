@@ -1,4 +1,3 @@
-# mailApp
 <h1 align="center">Hi 👋, I'm Ufuk Kürekci</h1>
 <h3 align="center">Backend Developer from Türkiye.</h3>
 
